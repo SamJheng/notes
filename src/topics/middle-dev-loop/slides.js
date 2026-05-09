@@ -291,27 +291,6 @@ export const slides = [
   },
   {
     id: 20,
-    type: "takeaway",
-    emoji: "📌",
-    title: "架構解耦的選擇空間紅利",
-    quotes: [
-      {
-        text: "模組化的系統可以在不知道整個系統的情況下修改，這就是真正的選擇空間。",
-        en: "Modular systems can be modified without understanding the whole — that's real optionality.",
-      },
-      {
-        text: "哈佛商學院教授 Carliss Baldwin 研究指出：模組化讓消費者能「混合搭配」，系統獨立性越高，選擇自由越大。",
-        en: "Prof. Carliss Baldwin found modular systems give consumers 'mix and match' freedom — independence equals optionality.",
-      },
-      {
-        text: "vibe coding 帶來的不只是速度，而是一種全新的選擇自由——你可以今天就嘗試以前任何任務都沒試過的試驗。",
-        en: "Vibe coding brings not just speed, but new freedom — you can try experiments you've never had time for before.",
-      },
-    ],
-    gradient: "linear-gradient(135deg, #f6d365 0%, #fda085 100%)",
-  },
-  {
-    id: 21,
     type: "end",
     emoji: "🌟",
     title: "本章小結：中層迴圈六把鑰匙",

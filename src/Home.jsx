@@ -25,7 +25,7 @@ const topics = [
     title: "中層開發迴圈",
     subtitle: "多代理 AI 協作實戰 — Chapter 15",
     author: "讀書心得筆記",
-    slides: 21,
+    slides: 20,
     gradient: "linear-gradient(135deg, #134e5e 0%, #71b280 100%)",
   },
 ];
